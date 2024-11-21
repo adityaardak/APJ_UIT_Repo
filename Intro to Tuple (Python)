@@ -1,0 +1,3 @@
+# Create tuple storage in python
+
+tup = (1, 2, 3, 4, 5)
